@@ -14,10 +14,6 @@ sales_manager:
   name: Tina Travers, CMP
   email: tina.travers@austintexas.gov
   phone: 5124044240
-catering_manager:
-  name: Dawn Mosley
-  email: dmosely@levyrestaurants.com 
-  phone: 5124044254
 it_coordinator:
   name: Crystal Rivera
   email: crystal.rivera@austintexas.gov
